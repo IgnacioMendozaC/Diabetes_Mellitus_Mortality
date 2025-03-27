@@ -1,6 +1,6 @@
 # Effect of age, period, and birth cohort on diabetes mellitus mortality rate in Colombia, 1983-2022. An analytical cross-sectional study. 
 
-This repository allows you to reproduce the results of the research 'Effect of Age, Period, and Birth Cohort on Diabetes Mellitus Mortality Rates in Colombia, 1983-2022: An Analytical Cross-Sectional Study.
+This repository allows you to reproduce the results of the research "Effect of Age, Period, and Birth Cohort on Diabetes Mellitus Mortality Rates in Colombia, 1983-2022: An Analytical Cross-Sectional Study".
 
 ## Description
 
