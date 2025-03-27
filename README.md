@@ -38,3 +38,11 @@
 
 
 ## Runnig the code
+
+## Contact
+
+* [ORCID](https://orcid.org/0000-0002-2474-6603)
+* :email: juan.perez42@udea.edu.co
+
+
+## Acknowledgments
