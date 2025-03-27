@@ -26,21 +26,21 @@
 
 3. Databases for analysis by male sex
 
-   3.1 [Main data base](https://github.com/IgnacioMendozaC/Diabetes_Mellitus_Mortality/blob/c67133053ba80ecb89a10456a9f6ee2ce4ced195/bd_long_dm_h.xlsx)
+   3.1 [Main data base](bd_long_dm_h.xlsx)
 
    This database includes period groups, age groups, cohort groups, male diabetes death counts, male mid-period population, and the crude male diabetes mortality rate per 100,000 inhabitants. It 
    also includes the age group, period, and cohort categories required for some graphs.
  
-   3.2 [Lexis table database frequency (case count)](https://github.com/IgnacioMendozaC/Diabetes_Mellitus_Mortality/blob/f34722ac2887f6040661b12641b79348a54333ac/TABLA_LEXIS_FRECUENCIA_DM_H.xlsx)
+   3.2 [Lexis table database frequency (case count)](TABLA_LEXIS_FRECUENCIA_DM_H.xlsx)
 
    This database includes the count of deaths attributed to diabetes mellitus for males in Lexis table format according to age groups (rows), period groups (columns) and birth 
    cohort groups (diagonals).
 
-   3.3 [Lexis table database for general population](https://github.com/IgnacioMendozaC/Diabetes_Mellitus_Mortality/blob/dd0129f4bfb0747aba1776118155dde5759d846e/TABLA_LEXIS_POBLACION_DM_H.xlsx)
+   3.3 [Lexis table database for general population](TABLA_LEXIS_POBLACION_DM_H.xlsx)
 
    This database includes the male count based on projections and retroprojections from the National Administrative Department of Statistics of Colombia, in Lexis table format according to age      groups (rows), period groups (columns) and birth cohort groups (diagonals).
 
-   3.4[Lexis table database for diabetes mortality rate](https://github.com/IgnacioMendozaC/Diabetes_Mellitus_Mortality/blob/280416e0540b0cae2d7d207e891aea4492965783/TABLA_LEXIS_TASA_DM_H.xlsx)
+   3.4[Lexis table database for diabetes mortality rate](TABLA_LEXIS_TASA_DM_H.xlsx)
 
    This database includes the mortality rate of diabetes mellitus for males per 100,000 inhabitants, in Lexis table format according to age groups (rows), period groups (columns) and birth          cohort groups (diagonals).
 
