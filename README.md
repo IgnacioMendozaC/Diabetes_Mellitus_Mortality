@@ -4,7 +4,7 @@
 
 **Files included in the project**
 
-1. [Modelo cod](enlace)
+1. [Modelo cod](https://github.com/IgnacioMendozaC/Diabetes_Mellitus_Mortality/blob/main/Final.R)
    
 2. Databases for general analysis 
 
