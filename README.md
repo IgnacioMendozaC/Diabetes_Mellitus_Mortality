@@ -35,4 +35,6 @@
    4.3 [Lexis table database for general population
 
    4.4[Lexis table database for diabetes mortality rate]
-     
+
+
+## Runnig the code
