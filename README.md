@@ -8,7 +8,7 @@
    
 2. Databases for general analysis 
 
-   2.1 [Main data base]
+   2.1 [Main data base](https://github.com/IgnacioMendozaC/Diabetes_Mellitus_Mortality/blob/main/bd_long_dm.xlsx)
 
    2.2 [Lexis table database frequency ]
 
