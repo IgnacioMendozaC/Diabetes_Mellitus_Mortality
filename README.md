@@ -6,7 +6,7 @@
 
 1. [Modelo cod](enlace)
    
-2. [General database]
+2. Databases for general analysis 
 
    2.1 [Main data base]
 
@@ -16,7 +16,7 @@
 
    2.4[Lexis table database for diabetes mortality rate]
 
-3. [Databases for diabetes mellitus by male sex]
+3. Databases for general analysis by male sex
 
    3.1[Main data base]
  
@@ -26,7 +26,7 @@
 
    3.4[Lexis table database for diabetes mortality rate]
 
-4. [Databases for diabetes mellitus by female sex]
+4. Databases for general analysis by female sex
 
    4.1[Main data base]
 
