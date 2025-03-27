@@ -5,19 +5,34 @@
 **Files included in the project**
 
 1. [Modelo cod](enlace)
+   
 2. [General database]
+
    2.1 [Main data base]
+
    2.2 [Lexis table database frequency ]
+
    2.3 [Lexis table database for general population
+
    2.4[Lexis table database for diabetes mortality rate]
+
 3. [Databases for diabetes mellitus by male sex]
+
    3.1[Main data base]
+ 
    3.2[Lexis table database frequency]
+
    3.3 [Lexis table database for general population
+
    3.4[Lexis table database for diabetes mortality rate]
+
 4. [Databases for diabetes mellitus by female sex]
+
    4.1[Main data base]
+
    4.2[Lexis table database frequency]
+
    4.3 [Lexis table database for general population
+
    4.4[Lexis table database for diabetes mortality rate]
      
