@@ -60,7 +60,7 @@
 
    This database includes the female count based on projections and retroprojections from the National Administrative Department of Statistics of Colombia, in Lexis table format according to age    groups (rows), period groups (columns) and birth cohort groups (diagonals).
 
-   4.4[Lexis table database for diabetes mortality rate]
+   4.4[Lexis table database for diabetes mortality rate](TABLA_LEXIS_TASA_DM_M.xlsx)
 
    This database includes the mortality rate of diabetes mellitus for female per 100,000 inhabitants, in Lexis table format according to age groups (rows), period groups (columns) and birth          cohort groups (diagonals).
 
