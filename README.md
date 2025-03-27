@@ -46,12 +46,12 @@
 
 4. Databases for analysis by female sex
 
-   4.1[Main data base](https://github.com/IgnacioMendozaC/Diabetes_Mellitus_Mortality/blob/ffce3f09f1f7abbd0d2d26093a62207129a9feb5/bd_long_dm_m.xlsx)
+   4.1[Main data base](bd_long_dm_m.xlsx)
 
    This database includes period groups, age groups, cohort groups, female diabetes death counts, female mid-period population, and the crude female diabetes mortality rate per 100,000       
    inhabitants. It also includes the age group, period, and cohort categories required for some graphs.
 
-   4.2[Lexis table database frequency (case count)](https://github.com/IgnacioMendozaC/Diabetes_Mellitus_Mortality/blob/d50943018020d8dc3c1383263381159b3e77de8f/TABLA_LEXIS_FRECUENCIA_DM_M.xlsx)
+   4.2[Lexis table database frequency (case count)](TABLA_LEXIS_FRECUENCIA_DM_M.xlsx)
 
    This database includes the count of deaths attributed to diabetes mellitus for females in Lexis table format according to age groups (rows), period groups (columns) and birth 
    cohort groups (diagonals).
