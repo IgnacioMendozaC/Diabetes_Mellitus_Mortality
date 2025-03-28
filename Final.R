@@ -1,6 +1,20 @@
 
 # Load packages and libraries
 
+if(!("APCG1" %in% installed.packages())){devtools::install("./APCG1")}
+install.packages("APCtools")
+install.packages("APCI")
+install.packages("apc")
+install.packages("bamp")
+install.packages("StanMoMo")
+install.packages("readxl")
+install.packages("summarytools")
+install.packages("gtsummary")
+install.packages("ggplot")
+install.packages("plotly")
+install.packages("dplyr")
+install.packages("gridExtra")
+install.packages("tidyverse")
 
 # Libraries
 
