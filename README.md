@@ -80,6 +80,18 @@ To reproduce the model, follow these steps:
 
 3. From Rstudio opens the file [Final.R](Final.R)
 
+4. Install each of the packages. If you have any problem with the package **APCG1**, you must install it manually.
+
+   4.1 Download the package ‘APCI’ version 1.0.8.
+   [‘APCI’](https://www.math.uh.edu/~fuw/APCG1_1.0.tar.gz)
+
+   4.2 Put the file in the same folder where the Rstudio project is.
+   **Note:** do not unzip the file
+
+   4.3 `install.packages("APCG1_1.0.tar.gz", repos = NULL, type = "source")`
+
+5. Continue installing the packages and run the rest of the code.
+
 ## Contact
 
 Juan Pablo Pérez Bedoya
