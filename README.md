@@ -105,4 +105,5 @@ Oscar Ignacio Mendoza Cardozo
 ## Acknowledgments
 
 Dra. Paula Andrea Díaz Valencia
+
 Facultad Nacional de Salud Pública “Héctor Abad Gómez”, Universidad de Antioquia.
