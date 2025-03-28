@@ -48,12 +48,12 @@ This repository allows you to reproduce the results of the research "Effect of A
 
 4. Databases for analysis by female sex
 
-   4.1[Main data base](bd_long_dm_m.xlsx)
+   4.1 [Main data base](bd_long_dm_m.xlsx)
 
    This database includes period groups, age groups, cohort groups, female diabetes death counts, female mid-period population, and the crude female diabetes mortality rate per 100,000       
    inhabitants. It also includes the age group, period, and cohort categories required for some graphs.
 
-   4.2[Lexis table database frequency (case count)](TABLA_LEXIS_FRECUENCIA_DM_M.xlsx)
+   4.2 [Lexis table database frequency (case count)](TABLA_LEXIS_FRECUENCIA_DM_M.xlsx)
 
    This database includes the count of deaths attributed to diabetes mellitus for females in Lexis table format according to age groups (rows), period groups (columns) and birth 
    cohort groups (diagonals).
@@ -62,7 +62,7 @@ This repository allows you to reproduce the results of the research "Effect of A
 
    This database includes the female count based on projections and retroprojections from the National Administrative Department of Statistics of Colombia, in Lexis table format according to age    groups (rows), period groups (columns) and birth cohort groups (diagonals).
 
-   4.4[Lexis table database for diabetes mortality rate](TABLA_LEXIS_TASA_DM_M.xlsx)
+   4.4 [Lexis table database for diabetes mortality rate](TABLA_LEXIS_TASA_DM_M.xlsx)
 
    This database includes the mortality rate of diabetes mellitus for female per 100,000 inhabitants, in Lexis table format according to age groups (rows), period groups (columns) and birth          cohort groups (diagonals).
 
@@ -74,9 +74,11 @@ This repository allows you to reproduce the results of the research "Effect of A
 
 To reproduce the model, follow these steps:
 
-1. Download each of the files included in the [project](https://github.com/IgnacioMendozaC/Diabetes_Mellitus_Mortality) 
+1. Download each of the files included in the [project](https://github.com/IgnacioMendozaC/Diabetes_Mellitus_Mortality).
 
-2. 
+2. Create a project in Rstudio and put the files you downloaded earlier there.
+
+3. From Rstudio opens the file [Final.R](Final.R)
 
 ## Contact
 
