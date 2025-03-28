@@ -70,6 +70,14 @@ This repository allows you to reproduce the results of the research "Effect of A
 
 ## Runnig the code
 
+**Note:** This project was made in R in its Rstudio interface.
+
+To reproduce the model, follow these steps:
+
+1. Download each of the files included in the [project](https://github.com/IgnacioMendozaC/Diabetes_Mellitus_Mortality) 
+
+2. 
+
 ## Contact
 
 * Juan Pablo Pérez Bedoya
