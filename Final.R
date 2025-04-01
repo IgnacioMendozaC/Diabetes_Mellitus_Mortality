@@ -22,15 +22,11 @@ library(apc)
 library(bamp)
 library(StanMoMo)
 library(readxl)
-library(summarytools)
-library(gtsummary)
-library(ggplot2)
-library(plotly)
 library(dplyr)
 library(gridExtra)
 library(tidyverse)
 library(ggthemr)
-library(readxl)
+
 
 # 1. Load data bases
 
