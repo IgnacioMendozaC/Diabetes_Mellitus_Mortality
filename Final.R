@@ -54,19 +54,21 @@ bd_lexis_t_dm <- read_xlsx("TABLA_LEXIS_TASA_DM.xlsx")
 
 # Load main data base 
 
-bd_long_dm_m <- read_xlsx("bd_long_dm_m.xlsx")
+bd_long_dm_h <- read_xlsx("bd_long_dm_h.xlsx")
 
 # Lexis Table for frequency (Count of Cases)
 
-bd_lexis_f_dm_m <- read_xlsx("TABLA_LEXIS_FRECUENCIA_DM_M.xlsx")
+bd_lexis_f_dm_h <- read_xlsx("TABLA_LEXIS_FRECUENCIA_DM_H.xlsx")
+
 
 # Lexis table database for general population
 
-bd_lexis_p_dm_m <- read_xlsx("TABLA_LEXIS_POBLACION_DM_M.xlsx")
+bd_lexis_p_dm_h <- read_xlsx("TABLA_LEXIS_POBLACION_DM_H.xlsx")
+
 
 # Lexis table database for diabetes mortality rate
 
-bd_lexis_t_dm_m <- read_xlsx("TABLA_LEXIS_TASA_DM_M.xlsx")
+bd_lexis_t_dm_h <- read_xlsx("TABLA_LEXIS_TASA_DM_H.xlsx")
 
 
 ################################################################################
