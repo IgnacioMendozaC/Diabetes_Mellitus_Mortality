@@ -107,8 +107,8 @@ Carlos Andres Perez
 
 Dr. Paula Andrea Díaz Valencia
 
-National Faculty of Public Health, Epidemiology Group, University of Antioquia, Medellín, Colombia
+**National Faculty of Public Health, Epidemiology Group, University of Antioquia, Medellín, Colombia**
 
 Dr. Noël Christopher Barengo
 
-Herbert Wertheim College of Medicine and Robert Stempel College of Public Health & Social Work, Florida International University, Miami, FL, United States
+**Herbert Wertheim College of Medicine and Robert Stempel College of Public Health & Social Work, Florida International University, Miami, FL, United States**
