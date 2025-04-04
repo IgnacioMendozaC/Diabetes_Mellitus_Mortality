@@ -95,12 +95,13 @@ To reproduce the model, follow these steps:
 ## Contact
 
 Juan Pablo Pérez Bedoya
-* [ORCID](https://orcid.org/0000-0002-2474-6603)
 * :email: juan.perez42@udea.edu.co
 
 Oscar Ignacio Mendoza Cardozo
 * 📧 oscar.mendoza1@udea.edu.co
 
+Carlos Andres Perez 
+* 📧 caaperezag@unal.edu.co
 
 ## Acknowledgments
 
